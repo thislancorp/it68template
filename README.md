@@ -31,16 +31,16 @@ The program to open the Blogger template of it68.com.cn,And just the gift to fri
 
 
 
-####搭建免翻墙的Blogger博客要点 [only chinese need this.]
+####搭建免翻墙的Blogger博客要点 [Only chinese need read this.]
 
     绑定一个域名即可翻墙
     Blogger主站IP：hosts映射 "203.208.46.212 www.blogger.com" 即可通过https://www.blogger.com正常浏览、撰写文章
 
-####演示 [demo]
+####演示 [Demo]
 
     http://www.it68.com.cn
     
-####赞助 []
+####赞助 [Donation]
 
     如果您觉得这个开源项目非常有用，非常精彩，您可以选择性地赞助我，让这个项目一直更新下去。 https://me.alipay.com/lovlov
 	if thinks this program is excellent,please donate me via alipay https://me.alipay.com/lovlov .
