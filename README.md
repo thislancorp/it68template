@@ -40,3 +40,7 @@ The program to open the Blogger template of it68.com.cn,And just the gift to fri
 
     http://www.it68.com.cn
     
+####赞助 []
+
+    如果您觉得这个开源项目非常有用，非常精彩，您可以选择性地赞助我，让这个项目一直更新下去。 https://me.alipay.com/lovlov
+	if thinks this program is excellent,please donate me via alipay https://me.alipay.com/lovlov .
