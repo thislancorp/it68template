@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns='http://www.w3.org/1999/xhtml'>
-<head>&lt;!--<b:if cond='data:blog.pageType == &quot;item&quot;'><style/>--&gt;<style>html{display:none;}.summarid{display:inline;}</style><b:else/><style/>--&gt;<style>html{display:none;}.summarid{display:none;}</style></b:if><script type='text/javascript'>var _speedMark = new Date();self==top?document.documentElement.style.display=&quot;block&quot;:(window.top.document.documentElement.style.display=&quot;none&quot;,top.location=self.location);new Image().src=&quot;http://c229.thiscache.com/attachment/Day_121229/2_1_8de80e4b10a061a.css?20130126_1&quot;;new Image().src=&quot;http://c229.thiscache.com/attachment/Day_121229/2_1_71004592277371c.js?20130126_2&quot;;</script>&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//c229.thiscache.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//c183.thiscache.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//p.yiqifa.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//image.yiqifa.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//tajs.qq.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//www.it68.com.cn&quot; /&gt;<title><data:blog.pageTitle/><b:if cond='data:blog.pageType != &quot;item&quot;'> &#8212;&#8212; 关注互联网,关注IT,关注每一天</b:if></title>
+<head>
+<!--
+
+    Author:		enj0y
+
+    Email:		technical@thislancorp.com
+
+    Date:		2013-01-27
+
+	-->&lt;!--<b:if cond='data:blog.pageType == &quot;item&quot;'><style/>--&gt;<style>html{display:none;}.summarid{display:inline;}</style><b:else/><style/>--&gt;<style>html{display:none;}.summarid{display:none;}</style></b:if><script type='text/javascript'>window.top.document.documentElement.style.display=&quot;none&quot;;var _speedMark = new Date();self==top?document.documentElement.style.display=&quot;block&quot;:top.location=self.location;new Image().src=&quot;http://c229.thiscache.com/attachment/Day_121229/2_1_8de80e4b10a061a.css?20130126_1&quot;;new Image().src=&quot;http://c229.thiscache.com/attachment/Day_121229/2_1_71004592277371c.js?20130126_2&quot;;</script>&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//c229.thiscache.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//c183.thiscache.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//p.yiqifa.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//image.yiqifa.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//tajs.qq.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//www.it68.com.cn&quot; /&gt;<title><data:blog.pageTitle/><b:if cond='data:blog.pageType != &quot;item&quot;'> &#8212;&#8212; 关注互联网,关注IT,关注每一天</b:if></title>
 &lt;meta property=&quot;wb:webmaster&quot; content=&quot;ed3c9379514c6438&quot; /&gt;
 &lt;meta name=&quot;baidu-site-verification&quot; content=&quot;qVx24YYufvUa0YKZ&quot; /&gt;
 &lt;meta property=&quot;qc:admins&quot; content=&quot;0403476577614606375636&quot; /&gt;
 &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE7&quot;/&gt;
-&lt;meta name=&quot;keywords&quot; content=&quot;IT资讯,主机,空间,创业,云CDN,云加速,云安全&quot; /&gt;&lt;meta name=&quot;description&quot; content=&quot;IT资讯,主机,空间,创业,云CDN,云加速,云安全&quot; /&gt;
+&lt;meta name=&quot;keywords&quot; content=&quot;IT资讯,主机,空间,创业,云CDN,云加速,云安全&quot; /&gt;
+&lt;meta name=&quot;description&quot; content=&quot;IT资讯,主机,空间,创业,云CDN,云加速,云安全&quot; /&gt;
 <link href='//c229.thiscache.com/attachment/Day_121229/2_1_8de80e4b10a061a.css?20130126_1' rel='stylesheet' type='text/css'/>
 <link href='//c229.thiscache.com/attachment/Day_121122/2_1_6b203539dad468c.ico?20121231_1' rel='shortcut icon'/>
 <b:if cond='data:blog.url == &quot;http://www.google.com/&quot;'>
@@ -1007,6 +1017,7 @@ font-family: "Microsoft Yahei";                https://www.blogger.com/blogger.g
 								<li><a href='https://www.blogger.com/' target='_blank' title='网志服务提供商:blogger'>blogger</a></li>
 								<li><a href='http://portal.thislan.com/portal/cps/aliyun/?20130101_1' target='_blank' title='云计算服务商:ali cloud'>阿里云</a></li>
 								<li><a href='http://teched.cn/' target='_blank' title='关注互联网、新产品、新商业'>趣科技</a></li>
+								<li><a href='https://github.com/thislancorp/it68template' target='_blank' title='本站模板开源'>Github本站开源</a></li>
 							</ul>
 							<div class='clearfix'/>
 						</li>
