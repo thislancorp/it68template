@@ -1015,9 +1015,10 @@ font-family: "Microsoft Yahei";                https://www.blogger.com/blogger.g
 								<li><a href='http://www.safe121.com' target='_blank' title='烂jj的博客'>网络安全技术博客</a></li>
 								<li><a href='http://willerce.com/' target='_blank' title='模板原型作者:willerce'>willerce</a></li>
 								<li><a href='https://www.blogger.com/' target='_blank' title='网志服务提供商:blogger'>blogger</a></li>
-								<li><a href='http://portal.thislan.com/portal/cps/aliyun/?20130101_1' target='_blank' title='云计算服务商:ali cloud'>阿里云</a></li>
 								<li><a href='http://teched.cn/' target='_blank' title='关注互联网、新产品、新商业'>趣科技</a></li>
 								<li><a href='https://github.com/thislancorp/it68template' target='_blank' title='本站模板开源'>Github本站开源</a></li>
+								<li><a href='http://portal.thislan.com/portal/cps/aliyun/?20130101_1' target='_blank' title='云计算服务商:ali cloud'>阿里云</a></li>
+								<li><a href='http://www.22.cn/' onclick="this.href+='?source=89688';$(this).removeAttr('onclick')" target='_blank' title='CN域名35/年'>爱名网22.cn</a></li>
 							</ul>
 							<div class='clearfix'/>
 						</li>

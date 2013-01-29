@@ -22,10 +22,11 @@ The program to open the Blogger template of it68.com.cn,And just the gift to fri
 
     1.您需要先找一个空间（推荐使用阿里云OSS：http://www.aliyun.com/product/oss/，速度飞快）托管除模
 	板代码外的所有静态元素（attachment/），然后在CSS和模板代码里面编辑所有绝对引用为你的地址即完成第
-	一步；
+	一步；*.别忘记把/attachment/Day_121229/2_1_71004592277371c.js第250行改成你自己的博客的地址。
 	 You should find a host to hosting all static elements except template code(see in attachmen
 	 t/ , recommend the AWS S3 or Aliyun OSS),and then you should edit all url href/link in the
-	 css and template codes.
+	 css and template codes.Do not forget to edit the line 250 url into yours of the /attachmen
+	 t/Day_121229/2_1_71004592277371c.js. 
     2.您需要注册http://www.denglu.cc/index.html，登记你的网站，将template-39664165680557652.xml的
 	869行的appid修改成你的；
 	 You should register a disqus account or denglu account,and the edit the line 869 of the file
