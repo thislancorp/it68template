@@ -1,0 +1,4 @@
+Release:
+        2013-02-10  模版第一版开源发布https://github.com/thislancorp/it68template
+        2013-05-10  增加长连接埋点(50秒一次)以二次请求时得到最快的响应
+        2013-05-12  移植部分样式到CSS3 优化#content img的样式兼容到IE7
