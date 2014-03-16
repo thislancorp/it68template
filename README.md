@@ -14,8 +14,8 @@ The program to open the Blogger template of it68.com.cn,And just the gift to fri
 	
 ####友情链接编辑 [Friend links]
 
-    编辑template-39664165680557652.xml的1001行
-	Please edit the line 1001 of the file named template-39664165680557652.xml
+    编辑template-39664165680557652.xml的742行
+	Please edit the line 742 of the file named template-39664165680557652.xml
 
 
 ####导入Blogger [Import to blogger]
@@ -28,8 +28,8 @@ The program to open the Blogger template of it68.com.cn,And just the gift to fri
 	 css and template codes.Do not forget to edit the line 250 url into yours of the /attachmen
 	 t/Day_121229/2_1_71004592277371c.js. 
     2.您需要注册http://www.denglu.cc/index.html，登记你的网站，将template-39664165680557652.xml的
-	869行的appid修改成你的；
-	 You should register a disqus account or denglu account,and the edit the line 869 of the file
+	513行的appid修改成你的；
+	 You should register a disqus account or denglu account,and the edit the line 513 of the file
 	 named template-39664165680557652.xml.
     3.https://www.blogger.com/ > 点击你想配置的博客 > 左边菜单栏里的"模板" > "修改HTML" > 勾选"扩展
 	窗口小部件模板" > 复制粘贴模板代码 > "保存模板"
@@ -44,7 +44,7 @@ The program to open the Blogger template of it68.com.cn,And just the gift to fri
 ####搭建免翻墙的Blogger博客要点 [Only chinese need read this.]
 
     绑定一个域名即可翻墙
-    Blogger主站IP：hosts映射 "203.208.46.212 www.blogger.com" 即可通过https://www.blogger.com正常
+    Blogger主站IP：hosts映射 "60.199.175.187 www.blogger.com" 即可通过https://www.blogger.com正常
 	浏览、撰写文章
 
 ####演示 [Demo]
