@@ -13,7 +13,7 @@
     Donate:     Alipay: https://me.alipay.com/lovlov
                 Bitcoin: 1FQdNFZodF27Abt6NHsmCnxFC4Z7TVvzTz
     --&gt;
-&lt;!--<b:if cond='data:blog.pageType == &quot;item&quot;'><style/>--&gt;<style>.summarid{display:inline;}</style><b:else/><style/>--&gt;<style>.summarid{display:none;}</style></b:if>&lt;script type=&quot;text/javascript&quot;&gt;var _speedMark = new Date();new Image().src=&quot;http://pic01.qiniudn.com/_res/css/it_six_eight_css.css?v=2014031701&quot;;new Image().src=&quot;http://pic01.qiniudn.com/_res/js/it_six_eight_script.js?v=2014031701&quot;;new Image().src=&quot;http://img03.taobaocdn.com/tps/T1F8Q_Xm0jXXaCwpjX.png?20130218_1&quot;;<b:if cond='data:blog.pageType == &quot;item&quot;'>window.mod_pagespeed_prefetch_start=Number(_speedMark);window.mod_pagespeed_num_resources_prefetched=0;(function(){var d=null,e=window,f=document,g=&quot;documentElement&quot;,h=&quot;scrollTop&quot;,j=&quot;prototype&quot;,k=&quot;body&quot;,l=&quot;getAttribute&quot;,m=&quot;&quot;,n=&quot;1&quot;,p=&quot;data&quot;,q=&quot;img&quot;,r=&quot;load&quot;,s=&quot;number&quot;,t=&quot;on&quot;,u=&quot;onload&quot;,v=&quot;pagespeed_lazy_position&quot;,w=&quot;pagespeed_lazy_replaced_functions&quot;,x=&quot;data-lazyload-src&quot;,y=&quot;position&quot;,z=&quot;relative&quot;,A=&quot;scroll&quot;,B=&quot;src&quot;;e.pagespeed=e.pagespeed||{};var C=e.pagespeed,D=function(a){this.a=[];this.i=0;this.b=!1;this.o=a;this.c=d;this.g=0;this.h=200;this.f=!1};D[j].s=function(){var a=0;typeof e.pageYOffset==s?a=e.pageYOffset:f[k]&amp;&amp;f[k][h]?a=f[k][h]:f[g]&amp;&amp;f[g][h]&amp;&amp;(a=f[g][h]);var b=e.innerHeight||f[g].clientHeight||f[k].clientHeight;return{top:a,bottom:a+b,height:b}};D[j].n=function(a){var b=a[l](v);if(b)return parseInt(b,0);var b=a.offsetTop,c=a.offsetParent;c&amp;&amp;(b+=this.n(c));b=Math.max(b,0);a.setAttribute(v,b);return b};D[j].r=function(a){var b=this.n(a);return{top:b,bottom:b+a.offsetHeight}};D[j].q=function(a,b){if(a.currentStyle)return a.currentStyle[b];if(f.defaultView&amp;&amp;f.defaultView.getComputedStyle){var c=f.defaultView.getComputedStyle(a,d);if(c)return c.getPropertyValue(b)}return a.style&amp;&amp;a.style[b]?a.style[b]:m};D[j].p=function(a){if(this.q(a,y)==z)return!0;if(!this.f&amp;&amp;(0==a.offsetHeight||0==a.offsetWidth))return!1;var b=this.s(),c=a.getBoundingClientRect();c?(a=c.top-b.height,b=c.bottom):(c=this.r(a),a=c.top-b.bottom,b=c.bottom-b.top);return a&lt;=this.i&amp;&amp;0&lt;=b+this.i};D[j].m=function(a){this.l(a);var b=this;e.setTimeout(function(){var c=a[l](x);if(c!=d)if((b.b||b.p(a))&amp;&amp;a.src.indexOf(-1!=b.o)){var i=a.parentNode,E=a.nextSibling;i&amp;&amp;i.removeChild(a);a.getAttribute=a.j;a.removeAttribute(u);a.removeAttribute(x);a.removeAttribute(w);i&amp;&amp;i.insertBefore(a,E);a.src=c}else b.a.push(a)},0)};D[j].loadIfVisible=D[j].m;D[j].u=function(){this.b=!0;this.d()};D[j].loadAllImages=D[j].u;D[j].d=function(){var a=this.a,b=a.length;this.a=[];for(var c=0;c&lt;b;++c)this.m(a[c])};D[j].e=function(a,b){return a.a?a.a(b)!=d:a[l](b)!=d};D[j].v=function(){for(var a=f.getElementsByTagName(q),b=0;b&lt;a.length;++b){var c=a[b];this.e(c,x)&amp;&amp;this.l(c)}};D[j].overrideAttributeFunctions=D[j].v;D[j].l=function(a){var b=this;this.e(a,w)||(a.j=a[l],a.getAttribute=function(a){a.toLowerCase()==B&amp;&amp;b.e(this,x)&amp;&amp;(a=x);return this.j(a)},a.setAttribute(w,n))};C.k=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(t+b,c);else{var i=a[t+b];a[t+b]=function(){c.call(this);i&amp;&amp;i.call(this)}}};C.t=function(a,b){var c=new D(b);C.lazyLoadImages=c;0!=b.indexOf(p)&amp;&amp;((new Image).src=b);C.k(e,r,function(){c.f=!0;e.setTimeout(function(){c.b=a;c.d()},200)});a||C.k(e,A,function(){if(!c.c){var a=c.h;(new Date).getTime()-c.g&gt;c.h&amp;&amp;(a=0);c.c=e.setTimeout(function(){c.g=(new Date).getTime();c.d();c.c=d},a)}})};C.lazyLoadInit=C.t;})();pagespeed.lazyLoadInit(false, &quot;//lebastatic.vip.thiscache.com/safe121/attachment/blogpost/-w88yemEhvIA/UQprIyA77HI/AAAAAAAAA0M/vs2b3elKdHA/s1600/1.gif&quot;);</b:if>&lt;/script&gt;
+&lt;!--<b:if cond='data:blog.pageType == &quot;item&quot;'><style/>--&gt;<style>.summarid{display:inline;}</style><b:else/><style/>--&gt;<style>.summarid{display:none;}</style></b:if>&lt;script type=&quot;text/javascript&quot;&gt;var _speedMark = new Date();new Image().src=&quot;http://mu6.bdstatic.com/static/fm/lib/jquery-1.8.3.js&quot;;new Image().src=&quot;http://pic01.qiniudn.com/_res/css/it_six_eight_css.css?140319_1&quot;;new Image().src=&quot;http://pic01.qiniudn.com/_res/js/it_six_eight_script.js?v=2014031702&quot;;new Image().src=&quot;http://img03.taobaocdn.com/tps/T1F8Q_Xm0jXXaCwpjX.png?20130218_1&quot;;<b:if cond='data:blog.pageType == &quot;item&quot;'>window.mod_pagespeed_prefetch_start=Number(_speedMark);window.mod_pagespeed_num_resources_prefetched=0;(function(){var d=null,e=window,f=document,g=&quot;documentElement&quot;,h=&quot;scrollTop&quot;,j=&quot;prototype&quot;,k=&quot;body&quot;,l=&quot;getAttribute&quot;,m=&quot;&quot;,n=&quot;1&quot;,p=&quot;data&quot;,q=&quot;img&quot;,r=&quot;load&quot;,s=&quot;number&quot;,t=&quot;on&quot;,u=&quot;onload&quot;,v=&quot;pagespeed_lazy_position&quot;,w=&quot;pagespeed_lazy_replaced_functions&quot;,x=&quot;data-lazyload-src&quot;,y=&quot;position&quot;,z=&quot;relative&quot;,A=&quot;scroll&quot;,B=&quot;src&quot;;e.pagespeed=e.pagespeed||{};var C=e.pagespeed,D=function(a){this.a=[];this.i=0;this.b=!1;this.o=a;this.c=d;this.g=0;this.h=200;this.f=!1};D[j].s=function(){var a=0;typeof e.pageYOffset==s?a=e.pageYOffset:f[k]&amp;&amp;f[k][h]?a=f[k][h]:f[g]&amp;&amp;f[g][h]&amp;&amp;(a=f[g][h]);var b=e.innerHeight||f[g].clientHeight||f[k].clientHeight;return{top:a,bottom:a+b,height:b}};D[j].n=function(a){var b=a[l](v);if(b)return parseInt(b,0);var b=a.offsetTop,c=a.offsetParent;c&amp;&amp;(b+=this.n(c));b=Math.max(b,0);a.setAttribute(v,b);return b};D[j].r=function(a){var b=this.n(a);return{top:b,bottom:b+a.offsetHeight}};D[j].q=function(a,b){if(a.currentStyle)return a.currentStyle[b];if(f.defaultView&amp;&amp;f.defaultView.getComputedStyle){var c=f.defaultView.getComputedStyle(a,d);if(c)return c.getPropertyValue(b)}return a.style&amp;&amp;a.style[b]?a.style[b]:m};D[j].p=function(a){if(this.q(a,y)==z)return!0;if(!this.f&amp;&amp;(0==a.offsetHeight||0==a.offsetWidth))return!1;var b=this.s(),c=a.getBoundingClientRect();c?(a=c.top-b.height,b=c.bottom):(c=this.r(a),a=c.top-b.bottom,b=c.bottom-b.top);return a&lt;=this.i&amp;&amp;0&lt;=b+this.i};D[j].m=function(a){this.l(a);var b=this;e.setTimeout(function(){var c=a[l](x);if(c!=d)if((b.b||b.p(a))&amp;&amp;a.src.indexOf(-1!=b.o)){var i=a.parentNode,E=a.nextSibling;i&amp;&amp;i.removeChild(a);a.getAttribute=a.j;a.removeAttribute(u);a.removeAttribute(x);a.removeAttribute(w);i&amp;&amp;i.insertBefore(a,E);a.src=c}else b.a.push(a)},0)};D[j].loadIfVisible=D[j].m;D[j].u=function(){this.b=!0;this.d()};D[j].loadAllImages=D[j].u;D[j].d=function(){var a=this.a,b=a.length;this.a=[];for(var c=0;c&lt;b;++c)this.m(a[c])};D[j].e=function(a,b){return a.a?a.a(b)!=d:a[l](b)!=d};D[j].v=function(){for(var a=f.getElementsByTagName(q),b=0;b&lt;a.length;++b){var c=a[b];this.e(c,x)&amp;&amp;this.l(c)}};D[j].overrideAttributeFunctions=D[j].v;D[j].l=function(a){var b=this;this.e(a,w)||(a.j=a[l],a.getAttribute=function(a){a.toLowerCase()==B&amp;&amp;b.e(this,x)&amp;&amp;(a=x);return this.j(a)},a.setAttribute(w,n))};C.k=function(a,b,c){if(a.addEventListener)a.addEventListener(b,c,!1);else if(a.attachEvent)a.attachEvent(t+b,c);else{var i=a[t+b];a[t+b]=function(){c.call(this);i&amp;&amp;i.call(this)}}};C.t=function(a,b){var c=new D(b);C.lazyLoadImages=c;0!=b.indexOf(p)&amp;&amp;((new Image).src=b);C.k(e,r,function(){c.f=!0;e.setTimeout(function(){c.b=a;c.d()},200)});a||C.k(e,A,function(){if(!c.c){var a=c.h;(new Date).getTime()-c.g&gt;c.h&amp;&amp;(a=0);c.c=e.setTimeout(function(){c.g=(new Date).getTime();c.d();c.c=d},a)}})};C.lazyLoadInit=C.t;})();pagespeed.lazyLoadInit(false, &quot;http://pic01.qiniudn.com/attachment/blogpost/-w88yemEhvIA/UQprIyA77HI/AAAAAAAAA0M/vs2b3elKdHA/s1600/1.gif&quot;);</b:if>&lt;/script&gt;
 &lt;link rel=&quot;dns-prefetch&quot; href=&quot;//pic01.qiniudn.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//tajs.qq.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//img03.taobaocdn.com&quot; /&gt;<b:if cond='data:blog.pageType == &quot;item&quot;'>&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//assets.changyan.sohu.com&quot; /&gt;&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//changyan.sohu.com&quot; /&gt;</b:if>&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//www.it68.com.cn&quot; /&gt;<title><data:blog.pageTitle/><b:if cond='data:blog.pageType != &quot;item&quot;'> &#8212;&#8212; 关注互联网,关注IT,关注每一天</b:if></title>
 <!--&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, maximum-scale=1.0, user-scalable=no&quot; /&gt;-->
 &lt;meta property=&quot;wb:webmaster&quot; content=&quot;ed3c9379514c6438&quot; /&gt;
@@ -24,7 +24,7 @@
 &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=EmulateIE8,chrome=1&quot;/&gt;
 &lt;meta name=&quot;keywords&quot; content=&quot;IT资讯,主机,空间,创业,云CDN,云加速,云安全&quot; /&gt;
 &lt;meta name=&quot;description&quot; content=&quot;关注互联网,关注IT,关注每一天&quot; /&gt;
-<link href='http://pic01.qiniudn.com/_res/css/it_six_eight_css.css?130512_9' rel='stylesheet' type='text/css'/>
+<link href='http://pic01.qiniudn.com/_res/css/it_six_eight_css.css?140319_1' rel='stylesheet' type='text/css'/>
 <link href='http://pic01.qiniudn.com/attachment/Day_121122/2_1_6b203539dad468c.ico?130215_1' rel='shortcut icon'/>
 <script type='text/javascript'>window.onerror=function(){return true};var pageNaviConf={perPage: 7,numPages: 5,firstText: &quot;First&quot;,lastText: &quot;Last&quot;,nextText: &quot;&#187;&quot;,prevText: &quot;&#171;&quot;}<b:if cond='data:blog.pageType == &quot;index&quot;'>,xzs=1<b:else/>,xzs=0</b:if><b:if cond='data:blog.pageType == &quot;item&quot;'>,pi=1<b:else/>,pi=0</b:if></script>&lt;!--[if 0] &gt;</head>&lt;![endif]--&gt;
 &lt;/head&gt;
@@ -193,8 +193,8 @@
     </b:if>
   </b:if>
 </b:includable>
-    <b:includable id='comments' var='post'>
-        <div id="SOHUCS" expr:sid="data:post.id"/>
+  <b:includable id='comments' var='post'>
+        <div expr:sid='data:post.id' id='SOHUCS'/>
     </b:includable>
   <b:includable id='feedLinks'>
   <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
@@ -492,7 +492,7 @@
 											</b:if>
 										</span>
 										<span class='comments-link'>
-											<a expr:href='data:post.url + &quot;#SOHUCS&quot;' expr:title='&quot;查看 \&quot;&quot; + data:post.title + &quot;\&quot; 下的评论&quot;' rel='nofollow'>评论数<span expr:id='&quot;sourceId::&quot; + data:post.id' class="cy_cmt_count">加载中...</span></a>
+											<a expr:href='data:post.url + &quot;#SOHUCS&quot;' expr:title='&quot;查看 \&quot;&quot; + data:post.title + &quot;\&quot; 下的评论&quot;' rel='nofollow'>评论数<span class='cy_cmt_count' expr:id='&quot;sourceId::&quot; + data:post.id'>加载中...</span></a>
 										</span>
 									</div>
 									<div class='post-header'>
@@ -739,21 +739,13 @@
 							<ul>
 								<li><a href='http://www.baidu.com/' target='_blank' title='全球最大的华语搜索引擎:百度'>度娘镇楼</a></li>
 								<li><a href='http://www.google.com' target='_blank' title='全球最大的搜索引擎,没有之一'>谷哥</a></li>
-								<li><a href='http://www.safe121.com' target='_blank' title='烂jj的博客'>网络安全技术博客</a></li>
 								<li><a href='http://willerce.com/' target='_blank' title='模板原型作者:willerce'>willerce</a></li>
 								<li><a href='http://www.77qiqi.com/blog/' target='_blank' title='设计湿'>77QiQi</a></li>
 								<li><a href='http://www.fyhqy.com/' target='_blank' title='远方好基友'>枫叶红秋雨</a></li>
 								<li><a href='https://www.blogger.com/' target='_blank' title='网志服务提供商:blogger'>blogger</a></li>
-								<li><a href='http://teched.cn/' target='_blank' title='关注互联网、新产品、新商业'>趣科技</a></li>
-								<li><a href='http://www.ldhl.net/' target='_blank' title='最新的主机优惠信息与免费资源'>龙眼博客</a></li>
-								<li><a href='http://www.rices.so/' target='_blank' title='屎辉的博客'>Rices</a></li>
-								<li><a href='http://noops.me/' target='_blank' title='ops make no-ops'>NoOps</a></li>
 								<li><a href='http://jybb.me/' target='_blank' title='一个没有人会想起的博客'>俊彦博客</a></li>
 								<li><a href='https://github.com/thislancorp/it68template' target='_blank' title='本站模板开源'>Github本站开源</a></li>
-								<li><a href='http://163.fm/8mUwU9f' target='_blank' title='云计算服务商:ali cloud'>阿里云</a></li>
-								<li><a href='http://www.360dns.net/' target='_blank' title='360 DNS'>云DNS</a></li>
 								<li><a href='http://www.22.cn/' onclick='this.href+=&apos;?source=89688&apos;;$(this).removeAttr(&apos;onclick&apos;)' target='_blank' title='CN域名35/年'>爱名网22.cn</a></li>
-								<li><a href='http://www.diaochapai.com/survey674795' target='_blank' title='访问速度调查'>IT乐吧 访问调查</a></li>							
 							</ul>
 							<div class='clearfix'/>
 						</li>
@@ -773,15 +765,16 @@
 				<div id='colophon'>
 					<div id='site-info'>Copyright &#169; 2012-2013 <span><strong>IT乐吧</strong>.All rights reserved.</span></div>
 					<div id='theme-info'>
-						<span>Themes by <a href='http://willerce.com' rel='themeautor' title='Themes author'>未志</a> &amp; <a href='http://www.it68.com.cn' rel='themeeditor' title='移植'>Enj0y</a></span> | Powered by Blogger(香港). 赞助:<a href='https://blockchain.info/address/1FQdNFZodF27Abt6NHsmCnxFC4Z7TVvzTz' target='_blank'>Bitcoin</a> <a href='https://me.alipay.com/lovlov' target='_blank'>Alipay</a> <a href='http://www.aliyun.com/cps/rebate?from_uid=q1Ztb7+A9VCgnUQucQhTBnTNVmj7q0df' target='_blank'>Aliyun</a>
+						<span>Themes by <a href='http://willerce.com' rel='themeautor' title='Themes author'>未志</a> &amp; <a href='http://www.it68.com.cn' rel='themeeditor' title='移植'>Enj0y</a></span> | Powered by Blogger(香港). 赞助:<a href='https://blockchain.info/address/1FQdNFZodF27Abt6NHsmCnxFC4Z7TVvzTz' target='_blank'>Bitcoin</a> <a href='https://me.alipay.com/lovlov' target='_blank'>Alipay</a>
 						<h><a class='goTop' href='javascript:void(0);' onclick='$(&apos;body,html&apos;).animate({scrollTop:0},800)||window.scrollTo(0,0);'>回顶部</a></h>
 					</div>	
 				</div>
 			</div>
 		</div>
-&lt;script type=&quot;text/javascript&quot; src=&quot;http://pic01.qiniudn.com/_res/js/it_six_eight_script.js?v=2014031701&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://mu6.bdstatic.com/static/fm/lib/jquery-1.8.3.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://pic01.qiniudn.com/_res/js/it_six_eight_script.js?v=2014031702&quot;&gt;&lt;/script&gt;
 &lt;script type=&quot;text/javascript&quot; src=&quot;http://tajs.qq.com/stats?sId=20312156&quot;&gt;&lt;/script&gt;
-&lt;script id=&quot;cy_cmt_num&quot; src=&quot;http://assets.changyan.sohu.com/upload/tools/cy_cmt_count.js?clientId=cyr4JtKdF&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; id=&quot;cy_cmt_num&quot; src=&quot;http://assets.changyan.sohu.com/upload/tools/cy_cmt_count.js?clientId=cyr4JtKdF&quot;&gt;&lt;/script&gt;
 &lt;!--[if 0] &gt;</body>&lt;![endif]--&gt;
 &lt;/body&gt;
 </html>
